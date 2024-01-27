@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @ArtemFilosofGB
-- 👀 I’m interested in Analitics BI Pygame GameDev DataBase BI
+- 👀 I’m interested in Analytics BI Pygame GameDev DataBase BI
 - 🌱 I’m currently learning Python, Java,
-- 💞️ I’m looking to collaborate on GAMEDEV project, and practics in date analize
+- 💞 I’m looking forward to collaborate on GAMEDEV project, and practice data analysis
 - 📫 How to reach me @artemfilosof
-- 😄 Pronouns: Get a sertificate of seconds education in IT in 2024, buil a team for GemeDev progect, Build edycational platforme. 
-- ⚡ Fun fact: I Do 40 pushups in the morning, read psychology and aurveda, also ride enduro bike on the weekend.
+- 😄 Plans: Get a certificate of second education in IT in 2024, build a team for GameDev project, build an educational platform. 
+- ⚡️ Fun fact: I do 40 pushups in the morning, read psychology and Ayurveda, also ride enduro-bike on the weekends.
 
 <!---
-ArtemFilosofGB/ArtemFilosofGB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ArtemFilosofGB/ArtemFilosofGB is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
