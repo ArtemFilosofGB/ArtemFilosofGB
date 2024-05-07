@@ -1,4 +1,4 @@
-# Hi, I’m @ArtemFilosofGB
+# Hi, I’m ArtemFilosofGB
 - 👀 I’m interested in Analytics BI Pygame GameDev DataBase
 - 🌱 I’m currently learning: `Python` `Java` `MySQL` `Power BI` `Ubuntu`
 - 💞 I’m looking forward to collaborate on GAMEDEV project, and practice data analysis
