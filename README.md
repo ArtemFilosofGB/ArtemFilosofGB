@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArtemFilosofGB
 - 👀 I’m interested in Analytics BI Pygame GameDev DataBase BI
-- 🌱 I’m currently learning Python, Java,
+- 🌱 I’m currently learning: `Python` `Java` `MySQL` `Power BI` `Ubuntu`
 - 💞 I’m looking forward to collaborate on GAMEDEV project, and practice data analysis
 - 📫 How to reach me @artemfilosof
 - 😄 Plans: Get a certificate of second education in IT in 2024, build a team for GameDev project, build an educational platform. 
